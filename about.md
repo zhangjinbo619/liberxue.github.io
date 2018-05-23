@@ -11,11 +11,9 @@ redirect_from:
   - /about/
 ---
 
-# Hello World
- 
-又换了个博客主题 这次终于看见不那么难受了
- 
-本博客使用Jekyll搭建托管在GitHub目前使用主题[已开源]，感谢liberxue(https://github.com/Liberxue/liberxue.github.io)
+# 声明
+  
+感谢liberxue提供该博客模板，博客使用Jekyll搭建托管在GitHub目前使用主题[已开源](https://github.com/Liberxue/liberxue.github.io)
  
 <iframe src="http://ghbtns.com/github-btn.html?user=liberxue&repo=liberxue.github.io&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
  
@@ -26,9 +24,12 @@ redirect_from:
 
 ### 使用语言
 
-``java ``|``JavaScript``| ``objective-c``|
+``java ``| ``objective-c``|
+
+``JavaScript``|``ES6``|``react native``| 
  
-``python`` |``ES6`` |``PHP``|
+``python``  |``PHP``|``Asp``|
+
 ``shell``|
  
 

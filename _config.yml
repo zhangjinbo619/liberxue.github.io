@@ -1,5 +1,5 @@
 # ----------- CONFIGURABLE START -----------
-title:            "|boom妒忌噶 blog|jekyll blog|GitHub blog"
+title:            "boom妒忌噶 blog"
 description:      "欢迎来到 boom妒忌噶「角落」侃侃理想、谈谈人生、敲敲代码。"
 url:              https://zhangjinbo619.github.io # 域名
 signoff:          "boom妒忌噶" # Your name
@@ -12,6 +12,7 @@ share:            true
 paginate: 5
 paginate_path: "boompage:num"
 gems: [jekyll-paginate]
+
 links:
   - name:         首页
     url:          /

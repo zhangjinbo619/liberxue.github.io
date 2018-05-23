@@ -19,7 +19,10 @@ links:
   - name:         随笔
     url:          /book
     external:     false
-  - name:         文章
+  - name:         技术
+    url:          /tech
+    external:     false
+  - name:         归档
     url:          /archives
     external:     false
   - name:         标签

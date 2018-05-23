@@ -8,7 +8,7 @@
     
       <item>
         <title>Git忽略规则及.gitignore规则正确姿势</title>
-        <category>git</category>
+        <category>code</category>
         <description>目的在git中如果想忽略掉某个文件或者文件夹，不想这个文件或者文件夹提交到版本库中，可以使用修改根目录中 .gitignore 文件的方法（如无，则需自己手工建立此文件）。这个文件每一行保存了一...</description>
         <pubDate>2018-05-23 14:20:30 </pubDate>
         <link>http://localhost:4000/2018/05/23/gitignore.html</link>

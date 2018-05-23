@@ -5,7 +5,7 @@ tech: true
 title: "Git忽略规则及.gitignore规则正确姿势"
 background-image: http://zhangjinbo619-github.oss-cn-hangzhou.aliyuncs.com/zhangjinbo619.github.io/Octocat.jpg
 date: "2018-05-23 14:20:30"
-category: git
+category: code
 tags:
 - github
 - git

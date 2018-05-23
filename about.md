@@ -2,7 +2,8 @@
 layout: blog
 title: 关于boom妒忌噶
 description: "关于 boom妒忌噶 博客角落自述"
-data: 2018-05-22 14:54:12
+date: ”2018-05-22 14:54:12“
+category: about
 tags: 
 - boom妒忌噶
 - 简述
@@ -15,7 +16,7 @@ redirect_from:
   
 感谢liberxue提供该博客模板，博客使用Jekyll搭建托管在GitHub目前使用主题[已开源](https://github.com/Liberxue/liberxue.github.io)
  
-<iframe src="http://ghbtns.com/github-btn.html?user=liberxue&repo=liberxue.github.io&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=liberxue&repo=liberxue.github.io&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
  
 
 ## 想做一名全栈开发

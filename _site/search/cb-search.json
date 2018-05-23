@@ -2,5 +2,19 @@
 	"code" : 0 ,
 	"data" : [
 	 
+	{
+		"title" : "Git忽略规则及.gitignore规则正确姿势 - ",
+		"url" : "/2018/05/23/gitignore.html"
+	}
+	
+	,
+	
+    
+	{
+		"title" : "code review 随笔 - ",
+		"url" : "/2018/04/27/gitignore.html"
+	}
+	
+    
 	]
 }

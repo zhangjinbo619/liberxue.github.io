@@ -6,5 +6,23 @@
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
+      <item>
+        <title>Git忽略规则及.gitignore规则正确姿势</title>
+        <category>git</category>
+        <description>目的在git中如果想忽略掉某个文件或者文件夹，不想这个文件或者文件夹提交到版本库中，可以使用修改根目录中 .gitignore 文件的方法（如无，则需自己手工建立此文件）。这个文件每一行保存了一...</description>
+        <pubDate>2018-05-23 14:20:30 </pubDate>
+        <link>http://localhost:4000/2018/05/23/gitignore.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/23/gitignore.html</guid>
+      </item>
+    
+      <item>
+        <title>code review 随笔</title>
+        <category>book</category>
+        <description>背景最近app项目ios&amp;&amp;android项目上线，我的初衷是为了让大家一起提高编码质量，当然从无到有的过程是痛苦的。但是做任何一件事情都要明确目标，客观分析。为什么要revie...</description>
+        <pubDate>2018-04-27 22:35:30 </pubDate>
+        <link>http://localhost:4000/2018/04/27/gitignore.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/27/gitignore.html</guid>
+      </item>
+    
   </channel>
 </rss>

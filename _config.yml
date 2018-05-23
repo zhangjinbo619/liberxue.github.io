@@ -9,8 +9,8 @@ share:            true
 #### Exclude
 #exclude: ["vendor"]
 # 分页
-paginate: 15
-paginate_path: "zhangjinbo619page:num"
+paginate: 5
+paginate_path: "boompage:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页

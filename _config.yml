@@ -4,8 +4,9 @@ description:      "欢迎来到 boom妒忌噶「角落」侃侃理想、谈谈�
 url:              https://zhangjinbo619.github.io # 域名
 signoff:          "boom妒忌噶" # Your name
 facebook_appid:   #liberxue
-google_analytics: UA-119669912-1
-share:            true 
+google_analytics: UA-119669912-1 #ga
+baidu_analytics: 7184bba00833160395ef250c99784aef
+share: true 
 #### Exclude
 #exclude: ["vendor"]
 # 分页

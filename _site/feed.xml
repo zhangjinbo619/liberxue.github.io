@@ -20,8 +20,17 @@
         <category>book</category>
         <description>背景最近app项目ios&amp;&amp;android项目上线，我的初衷是为了让大家一起提高编码质量，当然从无到有的过程是痛苦的。但是做任何一件事情都要明确目标，客观分析。为什么要revie...</description>
         <pubDate>2018-04-27 22:35:30 </pubDate>
-        <link>http://localhost:4000/2018/04/27/gitignore.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/04/27/gitignore.html</guid>
+        <link>http://localhost:4000/2018/04/27/codereview.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/27/codereview.html</guid>
+      </item>
+    
+      <item>
+        <title>统计react native项目的代码行数</title>
+        <category>code</category>
+        <description>背景因android需要上线应用宝，期望通过应用宝统一管理，但是申请审核时发现需要申请软件著作权。ios 上线都没这么麻烦，很无奈😌。  且软著需要统计rn内的代码行数，因此，我分别统计了一下 ...</description>
+        <pubDate>2018-03-19 00:00:00 </pubDate>
+        <link>http://localhost:4000/2018/03/19/codesum.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/19/codesum.html</guid>
       </item>
     
   </channel>

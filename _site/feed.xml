@@ -33,5 +33,14 @@
         <guid isPermaLink="true">http://localhost:4000/2018/03/19/codesum.html</guid>
       </item>
     
+      <item>
+        <title>react native 0.44.3 ios webview 102 error</title>
+        <category>code</category>
+        <description>目的app项目首页banner功能，点击进入活动页面。由于web微站早已上线，为了不重复开发  （其实就是偷懒，为啥要重复开发一个一模一样的页面，而且用rn构建活动页，那么多不同的模板，搞死人咯...</description>
+        <pubDate>2017-11-23 00:00:00 </pubDate>
+        <link>http://localhost:4000/2017/11/23/rnios-webview.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/23/rnios-webview.html</guid>
+      </item>
+    
   </channel>
 </rss>

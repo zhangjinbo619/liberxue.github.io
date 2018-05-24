@@ -9,7 +9,7 @@ share:            true
 #### Exclude
 #exclude: ["vendor"]
 # 分页
-paginate: 5
+paginate: 15
 paginate_path: "boompage:num"
 gems: [jekyll-paginate]
 
@@ -35,7 +35,7 @@ links:
 # ------------ CONFIGURABLE END ------------
 
 #permalink:        /:categories/:title.html
-permalink: /:year/:month/:day/:title.html
+permalink:  /:categories/:year/:month/:day/:title.html
 defaults:
   - values:
       layout: "default"

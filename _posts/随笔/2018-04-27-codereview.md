@@ -8,8 +8,7 @@ category: book
 tags:
 - code review
 ---
-<!-- wechat shard default img -->
-<img src="http://zhangjinbo619-github.oss-cn-hangzhou.aliyuncs.com/zhangjinbo619.github.io/codereview.jpg?x-oss-process=image/resize,w_450" style="width:10; height:10; position:absolute;"/>
+
 
 ![code review](http://zhangjinbo619-github.oss-cn-hangzhou.aliyuncs.com/zhangjinbo619.github.io/codereview.jpg)
 

@@ -1,4 +1,5 @@
 # 此为注释 – 将被 Git 忽略 
+.DS_Store
 _site/
 .vscode/
 vendor/

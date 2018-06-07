@@ -1,67 +1,23 @@
-                .::         .::                       .::      .::                 
-                .::       .:.::                        .::   .::                    
-                .::         .::         .::    .: .:::  .:: .::   .::  .::   .::    
-                .::      .::.:: .::   .:   .::  .::       .::     .::  .:: .:   .:: 
-                .::      .::.::   .::.::::: .:: .::     .:: .::   .::  .::.::::: .::
-                .::      .::.::   .::.:         .::    .::   .::  .::  .::.:        
-                .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::   
-                          Copyright (c) 2016-2018 liberxue
-                                 http://www.liberxue.com
+
                            
-#### liberxue.github.io preview (demo) (http://www.liberxue.com)
+#### zhang.github.io preview  (http://zhangjinbo619.github.com)
 
-`Jekyll Themes`
 ----------
-[中文版帮助文档README](/ChinaREADME.md)
-## `Lightweight`  `Minimalist`  `Jekyll blog`
+## 更新日志
+【2018-06-07】
+ * [新增]支持目录滚动
+【2018-05-30】
+ * 【更改】更新参考资料排版
+【2018-05-24】
+ * 【新增】新增百度流量统计
+ * 【新增】集成LeanCloud 实现阅读次数统计
 
-### The first step is to click [fork][https://github.com/liberxue/liberxue.github.io/fork]
-### The second step is to modify the _config.yml in URL for your domain name
+【2018-05-23】
+ * [新增]添加google ga 统计
+ * [更新]新增文章，调整布局，修复分页问题
+ * [修复]Safari 导航兼容问题
+【2018-05-22】
+ * 创建博客
 
-### OK all right, it's that simple
-
-#### I don't want any copyright also don't need you to donate, I only need you with a star 🌟  Thx 😄
-
-- [x] Automatic generation tag
-- [x] Automatic generation of JSON search
-- [x] Adaptive template
-- [x] Automatic generation of feed.xml
-- [x] Automatic paging generation
-- [x] Modify _config.yml's links for your menu
-- [x] Modify the _config.yml of paginate for how many pages you want to page
-
-![uiliberxue](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/ui.jpg) 
-
- ![archives](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/archives.png) 
-
- ![blog](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/blog.png) 
-
- ![tags](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/tags.png) 
-
-  ![404](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/404.png) 
-
- ----------
-![blog JSON search](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/01.gif) 
-
-### 1.First step Click[fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
- 
-----
-
-![fork](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/02.gif)
-  
-  
-
-
-### 2. modify _config.yml url URL for your domain
-
-![modify _config.yml url URL for your domain](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/04.gif)
-  
-
-
-
-* [Issues](https://github.com/Liberxue/liberxue.github.io/issues)
- 
-* [Email](mailto:liberxue@gmail.com)
- 
-* [Twitter](https://twitter.com/liberxue).
-
+---
+感谢 [https://github.com/Liberxue/](https://github.com/Liberxue/liberxue.github.io) 提供模板
